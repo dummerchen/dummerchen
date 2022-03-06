@@ -2,6 +2,7 @@
 * dummerfu
 * 西安电子科技大学2019级智能科学与技术专业本科生
 * 个人博客：https://dummerfu.top
+* 前刷题博客: https://www.cnblogs.com/cherrypill/
 <a href="https://github.com/dummerchen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dummerchen&theme=tokyonight&show_icons=true" />
 </a>
